@@ -10,4 +10,4 @@ You will need the following python libraries :
 
 A video has been attached to show the working of the entire project. You can contact me on LinkedIn if any doubts arise. 
 
-You are free to use this code.
+You are free to use this code in any which way you might want to.
